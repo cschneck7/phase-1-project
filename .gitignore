@@ -4,3 +4,7 @@ __pycache__
 *.pytest_cache
 .gitattributes
 !*.zip
+zippedData/im.db/
+zippedData/Student_tn/
+zippedData/Student_tn.zip
+zippedData/tn_student_ReadMe.pdf
