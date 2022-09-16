@@ -82,6 +82,15 @@ The Animation and Action pairing is being suggested mostly because of its high c
 <img src="images/figures/Success_Rate_PBtiered_Top5.png" alt="Top 5 Genre Pairings by Success Rate Split into Production Tiers">
 <img src="images/figures/POI_TieredPlot_Top5.png" alt="Percentage on Investment Box Plot Top 5 Genre Pairings by Success Rate Split into Production Tiers">
 
+
+### Future Improvements
+
+The metrics used during this analysis were by far not exhaustive. There were a metrics available in the datasets presented at the beginning of this project that weren't used. This includes ratings a reviews, which would give insight as to what critics as well as normal patrons believe about the film. Reviews in particular could have given a direct insight into what patrons enjoyed or disliked about films. Another piece of data not used was person's of interest. Which actors and directors resulted in better sales could have lead our suggestions to be even more precise. The release date could have also been analyzed to give a better idea of optimal releasing periods.
+
+There was also data missing that could have been valuable. This includes exact marketing costs for films istead of a general estimation from a limited sample data set. Marketing data was also completely absent for films with a production budget under $30 million leaving a large chunk of films left unanalyzed. There are also other streams of revenue and expenses that could have been included. Movies often times result in great merchandising sales which would probably be pretty genre specific. Film studios also create contracts with airlines and tv box networks to have permission to their films after they are pulled from theaters. Additional expenses include studio overhead, cast and crew residuals, physical prints sent to theaters, and financing costs if loans needed to be taken out. If all these metrics were included in the future more and possible better suggestions could be made. 
+
+
+
 ## Resources
 
 - Galloway, Stephen. “What Is the Most Profitable Movie Ever?” The Hollywood Reporter, The Hollywood Reporter, 18 Jan. 2020, https://www.hollywoodreporter.com/movies/movie-news/what-is-profitable-movie-ever-1269879/.
