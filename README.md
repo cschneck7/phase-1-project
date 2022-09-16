@@ -8,17 +8,17 @@ It is a market analysis on films to help an imaginary client at Microsoft, whom 
  -->
 
 #### Links
-[Jupyter Notebook](index.ipynb)
+[Jupyter Notebook](index.ipynb)<br/>
 [Presentation](Presentation.pdf)
 
 
 #### Navigating Repository
 
-Jupyter Notebook: top-level
-Presentation: top-level
-Images: images/ 
-Data Figures: images/figure/
-Movie Cover Images: images/Film/Covers
+Jupyter Notebook: top-level<br/>
+Presentation: top-level<br/>
+Images: images/<br/>
+Data Figures: images/figure/<br/>
+Movie Cover Images: images/FilmCovers/<br/>
 
 
 
@@ -77,10 +77,10 @@ The Sci-Fi and Adventure pairing had 50 of its 55 films in the Blockbuster produ
 
 The Animation and Action pairing is being suggested mostly because of its high correlation of around .72 between Production Budget and Percentage on Investment (POI). Though the Blockbuster Sci-Fi and Thriller pairing had an even higher correlation, it only had a sample size of three films to the sample size of 13 films for the Animation and Action pairing. Concentrating on this metric can give Microsoft a different approach at attempting to create a successful film by trying to invest more to receive a higher POI. This method does sound risky but this pairing is also backed by having a 38.5% success rate as blockbuster films, making it the second most commonly successful Blockbuster pairing behind Sci-Fi and Adventure. The POI production budget tiered box plot shown below also points out that this genre pairing's median POI value is very close to zero. Meaning that nearly 50% of Animation and Action films were either successful or very close to breaking even.
 
-![images/figures/Success_Rates.png](Top 10 Genre Pairings by Success Rate)
-![images/figures/POI_Boxplots_Top5.png](Percentage on Investment Box Plot For Top 5 Genre Pairings by Success Rate)
-![images/figures/Success_Rate_PBtiered_Top5.png](Top 5 Genre Pairings by Success Rate Split into Production Tiers)
-![images/figures/POI_TieredPlot_Top5.png](Percentage on Investment Box Plot Top 5 Genre Pairings by Success Rate Split into Production Tiers)
+<img src="images/figures/Success_Rates.png" alt="Top 10 Genre Pairings by Success Rate">
+<img src="images/figures/POI_Boxplots_Top5.png" alt="Percentage on Investment Box Plot For Top 5 Genre Pairings by Success Rate">
+<img src="images/figures/Success_Rate_PBtiered_Top5.png" alt="Top 5 Genre Pairings by Success Rate Split into Production Tiers">
+<img src="images/figures/POI_TieredPlot_Top5.png" alt="Percentage on Investment Box Plot Top 5 Genre Pairings by Success Rate Split into Production Tiers">
 
 ## Resources
 
