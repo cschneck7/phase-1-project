@@ -16,6 +16,8 @@ It is a market analysis on films to help an imaginary client at Microsoft, whom 
 
 Jupyter Notebook: top-level<br/>
 Presentation: top-level<br/>
+ZippedData: top-level<br/>
+Readme: top-level<br/>
 Images: images/<br/>
 Data Figures: images/figure/<br/>
 Movie Cover Images: images/FilmCovers/<br/>
