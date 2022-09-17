@@ -1,4 +1,4 @@
-# An analysis of How to be a Successful Film Studio
+# An Analysis of How to be a Successful Film Studio
 ## Flatiron Academy: Phase-1-Project
 ##### Author: Carl Schneck
 <!--
